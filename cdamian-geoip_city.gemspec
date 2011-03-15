@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.date = %q{2008-03-04}
   s.email = %q{ry@tinyclouds.org}
   s.extensions = ["extconf.rb"]
-  s.files = ["test.rb", "extconf.rb"]
+  s.files = Dir.glob('**/*')
   s.homepage = %q{http://github.com/ry/geoip-city}
   s.require_paths = ["."]
   s.rubygems_version = %q{1.6.2}
