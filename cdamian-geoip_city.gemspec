@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.email = %q{ry@tinyclouds.org}
   s.extensions = ["extconf.rb"]
   s.files = ["test.rb", "extconf.rb"]
-  s.homepage = %q{http://geoip_city.rubyforge.org}
+  s.homepage = %q{http://github.com/ry/geoip-city}
   s.require_paths = ["."]
   s.rubygems_version = %q{1.6.2}
   s.summary = %q{A Binding to the GeoIP C library}
